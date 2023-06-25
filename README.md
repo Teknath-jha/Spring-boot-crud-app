@@ -1,10 +1,15 @@
 # Spring-boot-crud-app
-
+CONFIGURATION SETTING
 ![image](https://github.com/Teknath-jha/Spring-boot-crud-app/assets/62249788/d2736d89-a2f3-484b-8cfa-aa45bcc27576)
 
+MYSQL PHPMYADMIN
 ![image](https://github.com/Teknath-jha/Spring-boot-crud-app/assets/62249788/b53ebab7-0b45-4858-9234-29cab8cf2b01)
 
+XAMPP v3.3.0
 ![image](https://github.com/Teknath-jha/Spring-boot-crud-app/assets/62249788/f1b09513-0bc2-458e-8088-2c54d56a1100)
+
+TOMCAT SERVER
+![image](https://github.com/Teknath-jha/Spring-boot-crud-app/assets/62249788/d4c76acc-320f-4d4e-8502-7b40d2079d06)
 
 DISPLAY LIST
 ![image](https://github.com/Teknath-jha/Spring-boot-crud-app/assets/62249788/0c0ab4a4-c7f9-45f0-a603-6e6276e8476b)
